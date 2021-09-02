@@ -17,9 +17,9 @@ Here are some ideas to get you started:
 
 💻 Backend Developer | 🧮 Former Accountant | 🧩 Problem Solver | 🍦 Ice Cream Eater
 
-📫 How to reach me: aruwart001@gmail.com
-
-[![Amanda LinkedIn](https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/amanda-e-mcguire/)
+📫 How to reach me
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](aruwart001@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/amanda-e-mcguire/)
 
 ## Technologies
 ![Ruby](https://img.shields.io/badge/ruby-%23CC342D.svg?style=for-the-badge&logo=ruby&logoColor=white)
