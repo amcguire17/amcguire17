@@ -15,9 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-😄 Pronouns: she/her
-
-💻 Backend Developer | 🧮 Former Accountant | 🧩 Problem Solver | 🤔 Analytical | 🍦 Ice Cream Eater
+💻 Backend Developer | 🧮 Former Accountant | 🧩 Problem Solver | 🍦 Ice Cream Eater
 
 📫 How to reach me: aruwart001@gmail.com
 
