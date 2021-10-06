@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-💻 Backend Developer | 🧮 Former Accountant | 🧩 Problem Solver | 🍦 Ice Cream Eater
+💻 Backend Developer | 🧮 Former Accountant 
 
 📫 How to reach me
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:aruwart001@gmail.com)
